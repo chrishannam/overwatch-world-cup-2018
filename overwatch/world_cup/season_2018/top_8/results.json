@@ -1,0 +1,768 @@
+{
+  "consolation": {
+    "competitors": [
+      {
+        "id": 4080,
+        "name": "United Kingdom",
+        "abbreviatedName": "GB",
+        "addressCountry": "GB"
+      },
+      {
+        "id": 4133,
+        "name": "Canada",
+        "abbreviatedName": "CA",
+        "addressCountry": "CA"
+      }
+    ],
+    "winner": {
+      "id": 4133,
+      "name": "Canada",
+      "abbreviatedName": "CA",
+      "addressCountry": "CA"
+    },
+    "scores": [
+      {
+        "value": 2
+      },
+      {
+        "value": 3
+      }
+    ],
+    "round": -2,
+    "ordinal": 1,
+    "games": [
+      {
+        "number": 1,
+        "state": "CONCLUDED",
+        "isComplete": true,
+        "attributes": {
+          "mapScore": {
+            "team1": 2,
+            "team2": 0
+          },
+          "map": "busan",
+          "mapName": "Busan"
+        }
+      },
+      {
+        "number": 2,
+        "state": "CONCLUDED",
+        "isComplete": true,
+        "attributes": {
+          "mapScore": {
+            "team1": 1,
+            "team2": 2
+          },
+          "map": "blizzard-world",
+          "mapName": "Blizzard World"
+        }
+      },
+      {
+        "number": 3,
+        "state": "CONCLUDED",
+        "isComplete": true,
+        "attributes": {
+          "mapScore": {
+            "team1": 3,
+            "team2": 2
+          },
+          "map": "volskaya",
+          "mapName": "Volskaya Industries"
+        }
+      },
+      {
+        "number": 4,
+        "state": "CONCLUDED",
+        "isComplete": true,
+        "attributes": {
+          "mapScore": {
+            "team1": 2,
+            "team2": 3
+          },
+          "map": "junkertown",
+          "mapName": "Junkertown"
+        }
+      },
+      {
+        "number": 5,
+        "state": "CONCLUDED",
+        "isComplete": true,
+        "attributes": {
+          "mapScore": {
+            "team1": 0,
+            "team2": 2
+          },
+          "map": "lijiang",
+          "mapName": "Lijiang Tower"
+        }
+      }
+    ],
+    "state": "CONCLUDED",
+    "vod": {
+      "url": "https://www.twitch.tv/videos/331322186",
+      "id": "331322186"
+    },
+    "startDate": {
+      "timestamp": 1541277000000,
+      "date": "Nov 3, 2018",
+      "time": "1:30 PM PDT",
+      "fullDate": "Saturday, November 3, 2018 1:30 PM PDT",
+      "relativeDate": "Nov 3, 2018"
+    },
+    "isLive": false
+  },
+  "top8": [
+    {
+      "competitors": [
+        {
+          "id": 4080,
+          "name": "United Kingdom",
+          "abbreviatedName": "GB",
+          "addressCountry": "GB"
+        },
+        {
+          "id": 4134,
+          "name": "USA",
+          "abbreviatedName": "US",
+          "addressCountry": "US"
+        }
+      ],
+      "winner": {
+        "id": 4080,
+        "name": "United Kingdom",
+        "abbreviatedName": "GB",
+        "addressCountry": "GB"
+      },
+      "scores": [
+        {
+          "value": 3
+        },
+        {
+          "value": 1
+        }
+      ],
+      "round": 1,
+      "ordinal": 1,
+      "games": [
+        {
+          "number": 1,
+          "state": "CONCLUDED",
+          "isComplete": true,
+          "attributes": {
+            "mapScore": {
+              "team1": 0,
+              "team2": 2
+            },
+            "map": "ilios",
+            "mapName": "Ilios"
+          }
+        },
+        {
+          "number": 2,
+          "state": "CONCLUDED",
+          "isComplete": true,
+          "attributes": {
+            "mapScore": {
+              "team1": 1,
+              "team2": 0
+            },
+            "map": "kings-row",
+            "mapName": "King's Row"
+          }
+        },
+        {
+          "number": 3,
+          "state": "CONCLUDED",
+          "isComplete": true,
+          "attributes": {
+            "mapScore": {
+              "team1": 4,
+              "team2": 3
+            },
+            "map": "volskaya",
+            "mapName": "Volskaya Industries"
+          }
+        },
+        {
+          "number": 4,
+          "state": "CONCLUDED",
+          "isComplete": true,
+          "attributes": {
+            "mapScore": {
+              "team1": 3,
+              "team2": 2
+            },
+            "map": "route-66",
+            "mapName": "Route 66"
+          }
+        }
+      ],
+      "state": "CONCLUDED",
+      "vod": {
+        "url": "https://www.twitch.tv/videos/330819808",
+        "id": "330819808"
+      },
+      "startDate": {
+        "timestamp": 1541186100000,
+        "date": "Nov 2, 2018",
+        "time": "12:15 PM PDT",
+        "fullDate": "Friday, November 2, 2018 12:15 PM PDT",
+        "relativeDate": "Nov 2, 2018"
+      },
+      "isLive": false
+    },
+    {
+      "competitors": [
+        {
+          "id": 4017,
+          "name": "Australia",
+          "abbreviatedName": "AU",
+          "addressCountry": "AU"
+        },
+        {
+          "id": 4106,
+          "name": "South Korea",
+          "abbreviatedName": "KR",
+          "addressCountry": "KR"
+        }
+      ],
+      "winner": {
+        "id": 4106,
+        "name": "South Korea",
+        "abbreviatedName": "KR",
+        "addressCountry": "KR"
+      },
+      "scores": [
+        {
+          "value": 0
+        },
+        {
+          "value": 3
+        }
+      ],
+      "round": 1,
+      "ordinal": 2,
+      "games": [
+        {
+          "number": 1,
+          "state": "CONCLUDED",
+          "isComplete": true,
+          "attributes": {
+            "mapScore": {
+              "team1": 0,
+              "team2": 2
+            },
+            "map": "busan",
+            "mapName": "Busan"
+          }
+        },
+        {
+          "number": 2,
+          "state": "CONCLUDED",
+          "isComplete": true,
+          "attributes": {
+            "mapScore": {
+              "team1": 2,
+              "team2": 3
+            },
+            "map": "blizzard-world",
+            "mapName": "Blizzard World"
+          }
+        },
+        {
+          "number": 3,
+          "state": "CONCLUDED",
+          "isComplete": true,
+          "attributes": {
+            "mapScore": {
+              "team1": 1,
+              "team2": 2
+            },
+            "map": "temple-of-anubis",
+            "mapName": "Temple of Anubis"
+          }
+        }
+      ],
+      "state": "CONCLUDED",
+      "vod": {
+        "url": "https://www.twitch.tv/videos/330904008",
+        "id": "330904008"
+      },
+      "startDate": {
+        "timestamp": 1541209500000,
+        "date": "Nov 2, 2018",
+        "time": "6:45 PM PDT",
+        "fullDate": "Friday, November 2, 2018 6:45 PM PDT",
+        "relativeDate": "Nov 2, 2018"
+      },
+      "isLive": false
+    },
+    {
+      "competitors": [
+        {
+          "id": 3968,
+          "name": "China",
+          "abbreviatedName": "CN",
+          "addressCountry": "CN"
+        },
+        {
+          "id": 4018,
+          "name": "Finland",
+          "abbreviatedName": "FI",
+          "addressCountry": "FI"
+        }
+      ],
+      "winner": {
+        "id": 3968,
+        "name": "China",
+        "abbreviatedName": "CN",
+        "addressCountry": "CN"
+      },
+      "scores": [
+        {
+          "value": 3
+        },
+        {
+          "value": 0
+        }
+      ],
+      "round": 1,
+      "ordinal": 3,
+      "games": [
+        {
+          "number": 1,
+          "state": "CONCLUDED",
+          "isComplete": true,
+          "attributes": {
+            "mapScore": {
+              "team1": 2,
+              "team2": 1
+            },
+            "map": "lijiang",
+            "mapName": "Lijiang Tower"
+          }
+        },
+        {
+          "number": 2,
+          "state": "CONCLUDED",
+          "isComplete": true,
+          "attributes": {
+            "mapScore": {
+              "team1": 3,
+              "team2": 1
+            },
+            "map": "hollywood",
+            "mapName": "Hollywood"
+          }
+        },
+        {
+          "number": 3,
+          "state": "CONCLUDED",
+          "isComplete": true,
+          "attributes": {
+            "mapScore": {
+              "team1": 4,
+              "team2": 3
+            },
+            "map": "hanamura",
+            "mapName": "Hanamura"
+          }
+        }
+      ],
+      "state": "CONCLUDED",
+      "vod": {
+        "url": "https://www.twitch.tv/videos/330947240",
+        "id": "330947240"
+      },
+      "startDate": {
+        "timestamp": 1541202900000,
+        "date": "Nov 2, 2018",
+        "time": "4:55 PM PDT",
+        "fullDate": "Friday, November 2, 2018 4:55 PM PDT",
+        "relativeDate": "Nov 2, 2018"
+      },
+      "isLive": false
+    },
+    {
+      "competitors": [
+        {
+          "id": 4133,
+          "name": "Canada",
+          "abbreviatedName": "CA",
+          "addressCountry": "CA"
+        },
+        {
+          "id": 3964,
+          "name": "France",
+          "abbreviatedName": "FR",
+          "addressCountry": "FR"
+        }
+      ],
+      "winner": {
+        "id": 4133,
+        "name": "Canada",
+        "abbreviatedName": "CA",
+        "addressCountry": "CA"
+      },
+      "scores": [
+        {
+          "value": 3
+        },
+        {
+          "value": 0
+        }
+      ],
+      "round": 1,
+      "ordinal": 4,
+      "games": [
+        {
+          "number": 1,
+          "state": "CONCLUDED",
+          "isComplete": true,
+          "attributes": {
+            "mapScore": {
+              "team1": 2,
+              "team2": 1
+            },
+            "map": "busan",
+            "mapName": "Busan"
+          }
+        },
+        {
+          "number": 2,
+          "state": "CONCLUDED",
+          "isComplete": true,
+          "attributes": {
+            "mapScore": {
+              "team1": 3,
+              "team2": 2
+            },
+            "map": "eichenwalde",
+            "mapName": "Eichenwalde"
+          }
+        },
+        {
+          "number": 3,
+          "state": "CONCLUDED",
+          "isComplete": true,
+          "attributes": {
+            "mapScore": {
+              "team1": 5,
+              "team2": 4
+            },
+            "map": "temple-of-anubis",
+            "mapName": "Temple of Anubis"
+          }
+        }
+      ],
+      "state": "CONCLUDED",
+      "vod": {
+        "url": "https://www.twitch.tv/videos/330861362",
+        "id": "330861362"
+      },
+      "startDate": {
+        "timestamp": 1541195100000,
+        "date": "Nov 2, 2018",
+        "time": "2:45 PM PDT",
+        "fullDate": "Friday, November 2, 2018 2:45 PM PDT",
+        "relativeDate": "Nov 2, 2018"
+      },
+      "isLive": false
+    }
+  ],
+  "top4": [
+    {
+      "competitors": [
+        {
+          "id": 4106,
+          "name": "South Korea",
+          "abbreviatedName": "KR",
+          "addressCountry": "KR"
+        },
+        {
+          "id": 4080,
+          "name": "United Kingdom",
+          "abbreviatedName": "GB",
+          "addressCountry": "GB"
+        }
+      ],
+      "winner": {
+        "id": 4106,
+        "name": "South Korea",
+        "abbreviatedName": "KR",
+        "addressCountry": "KR"
+      },
+      "scores": [
+        {
+          "value": 2
+        },
+        {
+          "value": 0
+        }
+      ],
+      "round": 2,
+      "ordinal": 1,
+      "games": [
+        {
+          "number": 1,
+          "state": "CONCLUDED",
+          "isComplete": true,
+          "attributes": {
+            "mapScore": {
+              "team1": 2,
+              "team2": 1
+            },
+            "map": "nepal",
+            "mapName": "Nepal"
+          }
+        },
+        {
+          "number": 2,
+          "state": "CONCLUDED",
+          "isComplete": true,
+          "attributes": {
+            "mapScore": {
+              "team1": 3,
+              "team2": 3
+            },
+            "map": "kings-row",
+            "mapName": "King's Row"
+          }
+        },
+        {
+          "number": 3,
+          "state": "CONCLUDED",
+          "isComplete": true,
+          "attributes": {
+            "mapScore": {
+              "team1": 3,
+              "team2": 3
+            },
+            "map": "volskaya",
+            "mapName": "Volskaya Industries"
+          }
+        },
+        {
+          "number": 4,
+          "state": "CONCLUDED",
+          "isComplete": true,
+          "attributes": {
+            "mapScore": {
+              "team1": 2,
+              "team2": 1
+            },
+            "map": "rialto",
+            "mapName": "Rialto"
+          }
+        },
+        {
+          "number": 5,
+          "state": "CONCLUDED",
+          "isComplete": true,
+          "attributes": {
+            "map": "lijiang",
+            "mapName": "Lijiang Tower"
+          }
+        }
+      ],
+      "state": "CONCLUDED",
+      "vod": {
+        "url": "https://www.twitch.tv/videos/331176546",
+        "id": "331176546"
+      },
+      "startDate": {
+        "timestamp": 1541262600000,
+        "date": "Nov 3, 2018",
+        "time": "9:30 AM PDT",
+        "fullDate": "Saturday, November 3, 2018 9:30 AM PDT",
+        "relativeDate": "Nov 3, 2018"
+      },
+      "isLive": false
+    },
+    {
+      "competitors": [
+        {
+          "id": 3968,
+          "name": "China",
+          "abbreviatedName": "CN",
+          "addressCountry": "CN"
+        },
+        {
+          "id": 4133,
+          "name": "Canada",
+          "abbreviatedName": "CA",
+          "addressCountry": "CA"
+        }
+      ],
+      "winner": {
+        "id": 3968,
+        "name": "China",
+        "abbreviatedName": "CN",
+        "addressCountry": "CN"
+      },
+      "scores": [
+        {
+          "value": 3
+        },
+        {
+          "value": 0
+        }
+      ],
+      "round": 2,
+      "ordinal": 2,
+      "games": [
+        {
+          "number": 1,
+          "state": "CONCLUDED",
+          "isComplete": true,
+          "attributes": {
+            "mapScore": {
+              "team1": 2,
+              "team2": 1
+            },
+            "map": "oasis",
+            "mapName": "Oasis"
+          }
+        },
+        {
+          "number": 2,
+          "state": "CONCLUDED",
+          "isComplete": true,
+          "attributes": {
+            "mapScore": {
+              "team1": 3,
+              "team2": 0
+            },
+            "map": "blizzard-world",
+            "mapName": "Blizzard World"
+          }
+        },
+        {
+          "number": 3,
+          "state": "CONCLUDED",
+          "isComplete": true,
+          "attributes": {
+            "mapScore": {
+              "team1": 2,
+              "team2": 1
+            },
+            "map": "temple-of-anubis",
+            "mapName": "Temple of Anubis"
+          }
+        }
+      ],
+      "state": "CONCLUDED",
+      "vod": {
+        "url": "https://www.twitch.tv/videos/331237463",
+        "id": "331237463"
+      },
+      "startDate": {
+        "timestamp": 1541269800000,
+        "date": "Nov 3, 2018",
+        "time": "11:30 AM PDT",
+        "fullDate": "Saturday, November 3, 2018 11:30 AM PDT",
+        "relativeDate": "Nov 3, 2018"
+      },
+      "isLive": false
+    }
+  ],
+  "finals": {
+    "competitors": [
+      {
+        "id": 4106,
+        "name": "South Korea",
+        "abbreviatedName": "KR",
+        "addressCountry": "KR"
+      },
+      {
+        "id": 3968,
+        "name": "China",
+        "abbreviatedName": "CN",
+        "addressCountry": "CN"
+      }
+    ],
+    "winner": {
+      "id": 4106,
+      "name": "South Korea",
+      "abbreviatedName": "KR",
+      "addressCountry": "KR"
+    },
+    "scores": [
+      {
+        "value": 4
+      },
+      {
+        "value": 0
+      }
+    ],
+    "round": 3,
+    "ordinal": 1,
+    "games": [
+      {
+        "number": 1,
+        "state": "CONCLUDED",
+        "isComplete": true,
+        "attributes": {
+          "mapScore": {
+            "team1": 2,
+            "team2": 0
+          },
+          "map": "ilios",
+          "mapName": "Ilios"
+        }
+      },
+      {
+        "number": 2,
+        "state": "CONCLUDED",
+        "isComplete": true,
+        "attributes": {
+          "mapScore": {
+            "team1": 3,
+            "team2": 1
+          },
+          "map": "kings-row",
+          "mapName": "King's Row"
+        }
+      },
+      {
+        "number": 3,
+        "state": "CONCLUDED",
+        "isComplete": true,
+        "attributes": {
+          "mapScore": {
+            "team1": 2,
+            "team2": 1
+          },
+          "map": "temple-of-anubis",
+          "mapName": "Temple of Anubis"
+        }
+      },
+      {
+        "number": 4,
+        "state": "CONCLUDED",
+        "isComplete": true,
+        "attributes": {
+          "mapScore": {
+            "team1": 4,
+            "team2": 3
+          },
+          "map": "gibraltar",
+          "mapName": "Watchpoint: Gibraltar"
+        }
+      }
+    ],
+    "state": "CONCLUDED",
+    "vod": {
+      "url": "https://www.twitch.tv/videos/331347799",
+      "id": "331347799"
+    },
+    "startDate": {
+      "timestamp": 1541285100000,
+      "date": "Nov 3, 2018",
+      "time": "3:45 PM PDT",
+      "fullDate": "Saturday, November 3, 2018 3:45 PM PDT",
+      "relativeDate": "Nov 3, 2018"
+    },
+    "isLive": false
+  }
+}

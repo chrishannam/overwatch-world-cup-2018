@@ -101,7 +101,3 @@ def display_bracket(bracket: t.Dict):
     for match in bracket.get('matches', {})[:1]:
         display_match(match)
 
-
-if __name__ == '__main__':
-    match_data = convert_json()
-    display_bracket(bracket=match_data['brackets'][0])
